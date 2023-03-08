@@ -6,7 +6,7 @@ SERVICE_CATEGORY = "2c9c486e4f821a19014f82381feb0001"  # This is the category ID
 # Fill in these data
 USER_ID = "22210240388"
 USER_PASSWORD = "ZYKcr5959559"
-CAMPUS_NAME = "邯郸校区"
+CAMPUS_NAME = "江湾校区"
 SPORT_NAME = "羽毛球"
 SPORT_LOCATION = "江湾体育馆羽毛球场"
 DATE = "2023-03-09"
