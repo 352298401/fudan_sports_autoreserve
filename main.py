@@ -4,18 +4,18 @@ import logs
 SERVICE_CATEGORY = "2c9c486e4f821a19014f82381feb0001"  # This is the category ID for "Sports Reservation". It usually doesn't change.
 
 # Fill in these data
-USER_ID = "YOUR_USER_ID"
-USER_PASSWORD = "YOUR_USER_PASSWORD"
+USER_ID = "22210240388"
+USER_PASSWORD = "ZYKcr5959559"
 CAMPUS_NAME = "邯郸校区"
 SPORT_NAME = "羽毛球"
-SPORT_LOCATION = "正大体育馆羽毛球(标场)"
-DATE = "2022-03-06"
-TIME = "10:00"
+SPORT_LOCATION = "江湾体育馆羽毛球场"
+DATE = "2023-03-09"
+TIME = "12:00"
 
 # Optional data
-EMAILS = ["YOUR_EMAIL"]  # Receive error notifications by email
-YOUR_EMAIL = "YOUR_EMAIL"  # Account to send email from
-EMAIL_PASSWORD = "YOUR_EMAIL_PASSWORD"  # Password for the email account
+EMAILS = ["352298401@qq.com"]  # Receive error notifications by email
+YOUR_EMAIL = "352298401@qq.com"  # Account to send email from
+EMAIL_PASSWORD = "ZYKCR5959559"  # Password for the email account
 
 
 if __name__ == '__main__':
